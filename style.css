@@ -2,3 +2,8 @@ h1{
     font-size: 150px !important;
     vertical-align: middle !important;
 }
+ p{
+   position: sticky;
+   position: -webkit-sticky;
+   top: 0;
+ }
