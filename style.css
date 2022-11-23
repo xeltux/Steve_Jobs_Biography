@@ -1,9 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 h1{
-    font-size: 150px !important;
+    font-size: 130px !important;
     vertical-align: middle !important;
 }
- p{
-   position: sticky;
-   position: -webkit-sticky;
-   top: 0;
- }
+.image-area{
+    min-height: 2000px;
+}
+
+.content-section{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.widget-sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.widget{
+    padding: 0 15px;
+    margin: 15px 0;
+}
+.title-section{
+    text-align: center;
+    offset: 0px -30px;
+}
+
