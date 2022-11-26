@@ -35,6 +35,11 @@ h1{
     offset: 0px -30px;
 }
 button{
-    
     text-weight: bold;
+}
+
+p{
+    font-weight: bold;
+    text-align: justify;
+    font-family: time
 }
