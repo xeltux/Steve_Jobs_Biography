@@ -43,3 +43,18 @@ p{
     text-align: justify;
     font-size: large;
 }
+
+.float{
+    position:fixed;
+    height: 60;
+    right: 115;
+    width: 60;
+    bottom: 40;
+}
+.float1{
+    position:fixed;
+    height: 130;
+    right: 115;
+    width: 60;
+    bottom: 40;
+}
