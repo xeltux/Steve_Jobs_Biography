@@ -52,7 +52,8 @@ p{
     bottom: 40;
 }
 .float1{
-    position:fixed;
+    position: fixed;
+    top: 2x;
     height: 130;
     right: 115;
     width: 60;
