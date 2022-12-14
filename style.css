@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    overflow-x: hidden !important;
+}
+
 h1{
     font-size: 130px !important;
     vertical-align: middle !important;
